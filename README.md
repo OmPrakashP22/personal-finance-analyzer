@@ -58,10 +58,7 @@ Notes
 - The `transform` function filters for rows where `Status == 'Reconciled'` and requires the expected CSV columns. Ensure exported CSV matches the expected schema.
 - If you run without Docker, create the Postgres DB and update the connection URI in `scripts/app.py` or pass via environment variable.
 
-Contributing
 
-- PRs welcome. Please include tests or a short explanation of changes.
 
-License
 
-- MIT (adjust as needed).
+
